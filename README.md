@@ -1,6 +1,9 @@
 # 🩺 Doctor's Diary – Patient Form Assistant
 
 **Doctor's Diary** is a lightweight and customizable desktop app designed for doctors to efficiently record and manage patient data. With support for theming and customizable form labels, it helps reduce paperwork and streamline decision-making.
+<img width="1420" height="1080" alt="doctors_diary" src="https://github.com/user-attachments/assets/4c7c92aa-5ddc-4efb-87c3-d0b0c18b653e" />
+<img width="1100" height="794" alt="doctors-diary" src="https://github.com/user-attachments/assets/de207645-dbd4-4911-ad7d-582d3e1b25ad" />
+
 
 ---
 
